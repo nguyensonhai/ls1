@@ -1,5 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap");
-
+@import url("https://fonts.googleapis.com/css2?family=Quicksand&display=swap");
 * {
   margin: 0;
 }
@@ -24,6 +24,7 @@
   font-size: 30px;
   color: white;
   font-weight: lighter;
+  font-family: "Quicksand", sans-serif;
 }
 .body-container {
   background-color: #e0e0e0;
@@ -44,6 +45,7 @@
   margin-top: 10px;
   margin-left: 20px;
   margin-bottom: 20px;
+  font-family: "Quicksand", sans-serif;
 }
 
 .places-container {
