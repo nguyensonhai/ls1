@@ -107,7 +107,7 @@
   background-size: cover;
   margin-right: 50px;
 }
-.box {
+.flexbox-container {
   width: 100%;
   display: flex;
   flex-direction: row;
